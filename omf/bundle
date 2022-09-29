@@ -1,4 +1,8 @@
+package config
+package https://github.com/catppuccin/fish
 package pyenv
+package spark
 theme batman
-theme bobthefish
+theme catppuccin
 theme default
+theme pure

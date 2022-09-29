@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "create-astro": "^1.1.0"
+  }
+}
