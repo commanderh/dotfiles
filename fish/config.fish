@@ -7,8 +7,10 @@ fish_add_path "$HOME/.cargo/bin"
 zoxide init fish | source
 # Aliases
 alias gst="git status"
-alias ls="exa"
+alias l="exa -al"
 alias lg="lazygit"
+alias n="nvim"
+alias t="touch"
 
 
 # Kanagawa Fish shell theme
