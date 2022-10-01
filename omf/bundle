@@ -4,5 +4,6 @@ package pyenv
 package spark
 theme batman
 theme catppuccin
+theme cbjohnson
 theme default
 theme pure
