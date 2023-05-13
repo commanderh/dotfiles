@@ -76,3 +76,4 @@ set -g fish_pager_color_prefix f5bde6
 set -g fish_pager_color_completion cad3f5
 set -g fish_pager_color_description 6e738d
 
+fish_add_path /Users/huy/.spicetify
